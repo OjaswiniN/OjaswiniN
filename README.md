@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Front-end and Data Structure.
-- 🌱 I’m currently learning ReactJs and NodeJs.
+- 🌱 I’m currently learning ReactJs.
 - 👯 I’m looking to collaborate on Projects and Hackathons.
 - 🤔 I’m looking for help with Machine learning.
 - 😄 Pronouns: She/Her
