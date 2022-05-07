@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on Front-end and Data Structure.
-- 🌱 I’m currently learning ReactJs & UI/UX.
+- 🔭 I’m currently sharpening my Front-end skills.
+- 🌱 I’m currently learning DS.
 - 👯 I’m looking to collaborate on Projects and Hackathons.
 - 🤔 I’m looking for help with Machine learning.
 - 😄 Pronouns: She/Her
