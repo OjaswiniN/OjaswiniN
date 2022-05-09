@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently sharpening my Front-end skills.
-- 🌱 I’m currently learning DS.
+- 🌱 I’m currently learning Data Structure.
 - 👯 I’m looking to collaborate on Projects and Hackathons.
 - 🤔 I’m looking for help with Machine learning.
 - 😄 Pronouns: She/Her
