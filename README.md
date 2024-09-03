@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on [HashNode](HashNode)
-
 - 💬 Ask me about **Javascript,React and Data Structures**
 
 - 📫 How to reach me **nandwanaojaswini@gmail.com**
