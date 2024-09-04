@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **Javascript,React and Data Structures**
+- 💬 Ask me about **Javascript, React and Data Structures**
 
 - 📫 How to reach me **nandwanaojaswini@gmail.com**
 
