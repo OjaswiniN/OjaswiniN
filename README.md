@@ -1,7 +1,7 @@
 ### Hola Amigos, Welcome to my world !👋
 
   <h1 align="center">Hi, I'm Ojaswini Nandwana</h1>
-  <h3 align="center">A passionate frontend developer and Software Engineer from Rajasthan, India.</h3>
+  <h3 align="center">A Software developer from Rajasthan, India.</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
