@@ -1,6 +1,6 @@
 ### Hola Amigos, Welcome to my world !👋
 
-  <h1 align="center">Hi, I'm Ojaswini Nandwana</h1>
+  <h2 align="center">Hi, I'm Ojaswini Nandwana</h2>
   <h3 align="center"> Developer from Rajasthan, India. </h3>
 
 - 🔭 I’m currently working on my **personal projects**.
