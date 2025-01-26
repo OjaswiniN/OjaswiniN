@@ -1,7 +1,7 @@
 ### Hola Amigos, Welcome to my world !👋
 
-  <h2 align="center">Hi, I'm Ojaswini Nandwana</h2>
-  <h3 align="center"> Developer from Rajasthan, India. </h3>
+  <h2 align="center">Hi, I'm Ojaswini Nandwana, Developer from India.</h2>
+
 
 - 🔭 I’m currently working on my **personal projects**.
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Java, Spring Boot and Microservices**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github]
 
 - 💬 Ask me about **Java, Spring Boot and Microservices**
 
